@@ -1,0 +1,13 @@
+.headding_style{
+    font-size: 24px;
+    font-weight: bold;
+    color: #333333;
+    margin-bottom: 15px;
+}
+.rectangle{
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    margin-left: 50px;
+    padding-right: 100px;
+}
